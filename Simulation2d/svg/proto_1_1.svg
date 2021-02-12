@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11000mm"
+   height="11000mm"
+   viewBox="0 0 11000 11000"
+   version="1.1"
+   id="svg578"
+   sodipodi:docname="proto_1_1.svg"
+   inkscape:version="1.0.1 (1.0.1+r74)">
+  <defs
+     id="defs572" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#6a553e"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.01"
+     inkscape:cx="-9900.5398"
+     inkscape:cy="-7356.2137"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1872"
+     inkscape:window-height="1016"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false"
+     inkscape:lockguides="false"
+     inkscape:snap-to-guides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3507"
+       units="mm"
+       spacingx="999.99995"
+       spacingy="999.99995"
+       color="#000000"
+       opacity="0.09411765"
+       empcolor="#000000"
+       empopacity="0.17647059"
+       dotted="false"
+       originx="-9999.9994"
+       originy="-9999.9994" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata575">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.842144"
+     transform="translate(-5000,-5000)">
+    <rect
+       style="fill:#00ffff;stroke-width:0.157199"
+       id="rect3527"
+       width="1000"
+       height="7000"
+       x="10000"
+       y="7000" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.157199"
+       id="rect3527-7"
+       width="7000"
+       height="1000"
+       x="7000"
+       y="10000" />
+    <circle
+       style="opacity:0.842144;fill:#ff8080;stroke-width:0.6155"
+       id="path582-22-35"
+       cx="12500"
+       cy="8500"
+       r="500">
+      <title
+         id="title1594-8-62">s e a:-90</title>
+    </circle>
+    <circle
+       style="opacity:0.842144;fill:#ff8080;stroke-width:0.6155"
+       id="path582-22-3-2"
+       cx="8500"
+       cy="12500"
+       r="500">
+      <title
+         id="title1594-8-6-7">s e a:-90</title>
+    </circle>
+    <circle
+       style="opacity:0.842144;fill:#ff8080;stroke-width:0.615501"
+       id="path582-22-7-7"
+       cx="12500"
+       cy="12500"
+       r="500">
+      <title
+         id="title1594-8-5-92">s e a:-90</title>
+    </circle>
+    <circle
+       style="opacity:0.842144;fill:#ff8080;stroke-width:0.6155"
+       id="path582-22-37"
+       cx="8500"
+       cy="8500"
+       r="500">
+      <title
+         id="title1594-8-59">s e a:-90</title>
+    </circle>
+    <rect
+       style="opacity:0.842144;fill:#00ffff;stroke-width:0.19706"
+       id="rect3527-3"
+       width="1000"
+       height="11000"
+       x="5000"
+       y="5000" />
+    <rect
+       style="opacity:0.842144;fill:#00ffff;stroke-width:0.19706"
+       id="rect3527-3-6"
+       width="1000"
+       height="11000"
+       x="15000"
+       y="5000" />
+    <rect
+       style="opacity:0.842144;fill:#00ffff;stroke-width:0.178247"
+       id="rect3527-7-7"
+       width="9000"
+       height="1000"
+       x="6000"
+       y="5000" />
+    <rect
+       style="opacity:0.842144;fill:#00ffff;stroke-width:0.178247"
+       id="rect3527-7-7-5"
+       width="9000.001"
+       height="1000"
+       x="6000"
+       y="15000" />
+  </g>
+</svg>

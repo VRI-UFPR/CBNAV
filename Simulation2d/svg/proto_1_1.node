@@ -1,0 +1,5 @@
+# x y r is_start is_end id angle_start angle_end
+7.5 7.5 0.5 True True 0 -90.0 -90.0
+3.5 3.5 0.5 True True 0 -90.0 -90.0
+7.5 3.5 0.5 True True 0 -90.0 -90.0
+3.5 7.5 0.5 True True 0 -90.0 -90.0
